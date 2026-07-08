@@ -2,17 +2,17 @@
 Ebola Outbreak Surveillance Dashboard 
 
 PROJECT DESCRIPTION
-To build a dashboard through which a user can easily get updated on the curremt number of ebola cases around the globe. The proposed project will be a data based app.
+This application provides users with up-to-date Ebola surveillance information while also serving as an educational and public health communication platform.The dashboard combines official outbreak data with interactive visualizations, educational resources, public health guidance, and community reporting features to create a simple but functional disease surveillance system.
 
 PROBLEM STATEMENT
 Ebola is a severe and often fatal viral illness caused by a group of viruses called Orthoebolaviruses. It spreads when broken skin or mucous membranes (eyes, nose, or mouth) touch the bodily fluids of a person who is sick with or has died from Ebola. 
 
 Recently, there has been an outbreak of the disease in different countries, making it a disease of concern as it has been found to spread through cross border travel. 
 
-It is therefore important that people across the globe stay updated on the spread of these disease. Most of these data is available on health websites like WHO and CDC however, most people do not have the time and patience to read through web pages, to get current data.
+It is therefore important that people across the globe stay updated on the spread of these disease, its prevention as well as report any symptoms. Most of these data is available on health websites like WHO and CDC however, most people do not have the time and patience to read through web pages, to get current data.
 
 PROPOSED SOLUTION
-This data based app will allow users to get access to data on ebola instantly and constantly. A credible website will be used to get this data. 
+This data based app will allow users to get access to data on ebola instantly and constantly. Additionally, the application will allow users to give their insights on the disease, check if they have any signs and symptoms as well as provide them with information on how to protect themselves from catching the disease. A credible website will be used to get this data. 
 
 PLANNED FEATURES
 File handling 
